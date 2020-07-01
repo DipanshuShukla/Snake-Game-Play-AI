@@ -1,1 +1,1 @@
-# Snake-Game-Plays-AI
+# Snake-Game-Play-AI
