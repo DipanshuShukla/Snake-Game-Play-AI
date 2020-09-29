@@ -3,13 +3,13 @@ import random
 
 pygame.init()
 
-WIN_WIDTH, WIN_HEIGHT = 600, 600
+WIN_WIDTH, WIN_HEIGHT = 700, 700
 WINDOW = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 pygame.display.set_caption("Snake")
 
 # Scaling
-FPS = 15
-SCALE = 20
+FPS = 18
+SCALE = 14
 WIDTH, HEIGHT = int(WIN_WIDTH / SCALE), int(WIN_HEIGHT / SCALE)
 
 # color pallet
